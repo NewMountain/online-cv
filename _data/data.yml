@@ -68,7 +68,7 @@ experiences:
         - Ship applications and microservices used widely internally in Node (Express), Python (Flask), Go (Echo) or Elixir (Phoenix)
         - Create delightful user experiences in Elm and React
         - Run a successful enterprise-first cloud POC project
-        - Establish a DevOps ecosystem including an internal scaffolding tool in Go, a Jenkins framework to both satisfy regulators and delight developers
+        - Establish a DevOps ecosystem including an internal scaffolding tool in Go and a Jenkins framework to dynamically generate context-aware pipelines to satisfy regulators and delight developers
 
   - role: Director, Business Intelligence
     time: 2015 - 2016
