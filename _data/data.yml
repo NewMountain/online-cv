@@ -65,7 +65,7 @@ experiences:
 
         - Transition an internal ecosystem of applications from Express apps running on Linux boxes to OTP apps in Elixir and containerized microservices in a variety of languages 
         - Design and write a domain specific internal language for data in Haskell that could also transpile to ANSI SQL, PySpark or Scala Spark
-        - Ship applications and microservices used widely internally in Node (Express), Python (Flask), Go (Echo), Elixir (Phoenix) or whatever worked best
+        - Ship applications and microservices used widely internally in Node (Express), Python (Flask), Go (Echo) or Elixir (Phoenix)
         - Create delightful user experiences in Elm and React
         - Run a successful enterprise-first cloud POC project
         - Establish a DevOps ecosystem including an internal scaffolding tool in Go, a Jenkins framework to both satisfy regulators and delight developers
