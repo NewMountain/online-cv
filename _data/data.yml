@@ -97,8 +97,8 @@ experiences:
 projects:
   title: Projects
   intro: >
-    The overwhelming majority of my code lives on an airgrapped Github Enterprise server.
-    However, you can see small examples of me exploring Go, Rust, Haskell and Elixir on my public Github repo.
+    The overwhelming majority of my code lives on an airgapped Github Enterprise server.
+    However, you can see small examples of me exploring Elm, Rust, Haskell and Elixir on my public Github.
 
   assignments:
     - title: Pomodoro clone in Elm
