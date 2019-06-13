@@ -3,198 +3,140 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Christopher Nyberg
+  tagline: Full Stack Developer
+  # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+  # Sidebar links
+  email: christopher.nyberg@gmail.com
+  #phone:
+  website: hackernoon.com/@NewMountain
+  linkedin: christopher-nyberg-4b64b31b
+  github: NewMountain
+  #codewars:
+  #goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
+  languages:
+    - idiom: English
+      level: Native
 
-      - idiom: French
-        level: Professional
+    - idiom: Russian
+      level: Proficient
 
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+  interests:
+    - item: Guitar
+      link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+  title: Career Profile
+  summary: |
+    A dynamic and results-focused engineer, who loves shipping delightful products. 
+    I flourish in a fast paced environment and am comfortable switching from talking to 
+    management at a high level about tradeoffs to reviewing PRs and writing some code! 
+    My career thus far has been in highly entrepreneurial environments, granting me the 
+    opportunity to work on a wide variety of projects number of different projects in the domains
+    of Web, Mobile, DevOps, data engineering, modeling and analysis, 
+    transpilers and dev tooling. Most importantly, I am never complacent, constantly challenging myself to grow as a professional 
+    so that I leave everything I touch vastly improved to how I found it.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+  - degree: MBA, Finance
+    university: Middlebury Institue of Internal Studies
+    time: 2009 - 2011
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+  - degree: BA, Russian Language
+    university: University of Vermont
+    time: 2006 - 2009
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+  - role: Director, Quantitative Architecture
+    time: 2016 - Present
+    company: First Republic Bank, San Francisco
+    details: |
+      Founded a high performing development team to jumpstart modern development at First Republic Bank.
+      The team operated as a startup within a larger company and worked on numerous projects
+      to explore new technologies, establish best practices and redefine what was possible
+      with technology.
 
-          - Bullet point
-          - Bullet point
+        - Transition an internal ecosystem of applications from Express apps running on Linux boxes to OTP apps in Elixir and containerized microservices in a variety of languages 
+        - Design and write a domain specific internal language for data in Haskell that could also transpile to ANSI SQL, PySpark or Scala Spark
+        - Ship applications and microservices used widely internally in Node (Express), Python (Flask), Go (Echo), Elixir (Phoenix) or whatever worked best
+        - Create delightful user experiences in Elm and React
+        - Run a successful enterprise-first cloud POC project
+        - Establish a DevOps ecosystem including an internal scaffolding tool in Go, a Jenkins framework to both satisfy regulators and delight developers
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+  - role: Director, Business Intelligence
+    time: 2015 - 2016
+    company: First Republic, San Francisco
+    details: |
+      Run a major enterprise project for 18 months and supervise a 7 person team,
+      develop software used by the team and ultimately turn the project into an internal product
+      and working group.
 
-          - Bullet point
-          - Bullet point
+        - Founded and led a 7-person team centered around an internal service product
+        - The product featured a web application and later ecosystem of services used widely throughout the business
+        - The team included technical and non-technical members focussed on all aspects of making the product a widely used and appreciated success
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+  - role: Investment Analyst
+    time: 2012 - 2015
+    company: First Republic Bank, San Francisco
+    details: |
+      Evolve from a fixed income analyst fresh out of school to a quantitative researcher using Python, SQL and R
+      to perform increasingly sophisticated analysis, modeling and simulations. Through these projects I discovered 
+      my passion for programming.
 
-          - Bullet point
-          - Bullet point
+        - Taught myself SQL to increase my value as an analyst
+        - Utilized R to perform multi-factor regressions and time series analysis of various investments and asset classes
+        - Wrote Monte Carlo financial planning simulations using Python
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  title: Projects
+  intro: >
+    The overwhelming majority of my code lives on an airgrapped Github Enterprise server.
+    However, you can see small examples of me exploring Go, Rust, Haskell and Elixir on my public Github repo.
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  assignments:
+    - title: Pomodoro clone in Elm
+      link: "https://github.com/NewMountain/timerApp"
+      tagline: "A fun Focus/Relax productivity timer app to practice Elm."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: Phone.hs
+      link: "https://github.com/NewMountain/Phone.hs"
+      tagline: "Phone to 90s telephone button press converter in Haskell. Get out your RAZRs kids."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: Rusty Spelling Bee
+      link: "https://github.com/NewMountain/rusty_spelling_bee"
+      tagline: "A fun excuse to make an NYT Spelling Bee clone for a friend and learn Rust at the same time."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    - title: N Queens Elixir
+      link: "https://github.com/NewMountain/nQueensElixir"
+      tagline: "A fun excuse to exercise concurrent and parallel programming in Elixir."
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+  toolset:
+    - name: Python
+      level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+    - name: Elixir
+      level: 85%
 
-      - name: Angular
-        level: 98%
+    - name: Javascript
+      level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+    - name: OpenShift and Docker
+      level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
+    - name: Haskell
+      level: 65%
 
-      - name: Sketch & Photoshop
-        level: 60%
+    - name: Go
+      level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
