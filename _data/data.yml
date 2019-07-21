@@ -54,7 +54,7 @@ education:
     time: 2006 - 2009
 
 experiences:
-  - role: Director, Quantitative Architecture
+  - role: Director, Senior Software Engineer
     time: 2016 - Present
     company: First Republic Bank, San Francisco
     details: |
@@ -70,7 +70,7 @@ experiences:
         - Run a successful enterprise-first cloud POC project
         - Establish a DevOps ecosystem including an internal scaffolding tool in Go and a Jenkins framework to dynamically generate context-aware pipelines to satisfy regulators and delight developers
 
-  - role: Director, Business Intelligence
+  - role: Director, Software Engineer
     time: 2015 - 2016
     company: First Republic, San Francisco
     details: |
