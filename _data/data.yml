@@ -37,7 +37,7 @@ career-profile:
     A dynamic and results-focused engineer, who loves shipping delightful products. 
     I flourish in a fast paced environment and am comfortable switching from talking to 
     management at a high level about tradeoffs to reviewing PRs and writing some code! 
-    My career thus far has been in highly entrepreneurial environments, granting me the 
+    My career thus far has taken me from a scrappy startup all the way to Amazon, granting me the 
     opportunity to work on a wide variety of projects across the domains
     of Web, Mobile, DevOps, data engineering, modeling and analysis, 
     transpilers and dev tooling. 
@@ -54,8 +54,22 @@ education:
     time: 2006 - 2009
 
 experiences:
+  - role: Software Development Engineer
+    time: Sep 2019 - Present
+    company: Amazon
+    details: |
+      Worked as a software development engineer that worked on distributed systems in support of physical retail initiatives.
+      I worked worked on low latency systems running on traditional servers as well as on serverless AWS solutions.
+      
+        - Optimized performance on a variety of lambda based processors, lowering latency by 30-50% and reducing runtime costs as well!
+        - Designed, coded and deployed several new high performance APIs and services
+        - Contributed to the [Amazon COVID testing initiative](https://blog.aboutamazon.com/operations/how-we-ramped-up-onsite-covid-19-testing-for-amazon-employees)
+        - Improved developer rampup time and new member inclusion by updating (or creating) documentation and onboarding materials
+        - Founded and contributed to OE (operational excellence) streamlining and automation through a wide array of python scripts and programs
+        - Improved to operational excellence, serving as oncall and improving metrics, logging, unit and integration test coverage, repeatable builds, unblocking continuous deployments and dev-ops improvements
+
   - role: Director, Senior Software Engineer
-    time: 2016 - Present
+    time: 2016 - Aug, 2019
     company: First Republic Bank, San Francisco
     details: |
       Founded a high performing development team to jumpstart modern development at First Republic Bank.
@@ -97,7 +111,7 @@ experiences:
 projects:
   title: Projects
   intro: >
-    The overwhelming majority of my code lives on an airgapped Github Enterprise server.
+    The overwhelming majority of my code was created in environments subject to NDAs.
     However, you can see small examples of me exploring Elm, Rust, Haskell and Elixir on my public Github.
 
   assignments:
@@ -128,16 +142,22 @@ skills:
       level: 85%
 
     - name: Javascript
-      level: 80%
+      level: 85%
 
-    - name: OpenShift and Docker
+    - name: AWS
       level: 70%
 
     - name: Haskell
       level: 65%
 
     - name: Go
-      level: 60%
+      level: 65%
+      
+certifications:
+  - name: AWS Certified Developer - Associate
+    link: https://www.youracclaim.com/badges/c842f9a4-a40a-43ad-94c7-13ebe2c502e4/linked_in_profile
+  
+  
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
