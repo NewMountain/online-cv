@@ -115,6 +115,13 @@ projects:
     However, you can see small examples of me exploring Elm, Rust, Haskell and Elixir on my public Github.
 
   assignments:
+    - title: AWS Certified Developer - Associate
+      link: https://www.youracclaim.com/badges/c842f9a4-a40a-43ad-94c7-13ebe2c502e4/linked_in_profile
+      
+    - title: Introduction to Programming in C
+      link: https://www.coursera.org/account/accomplishments/specialization/ZNLGXZ8GNC4J
+      tagline: "Wanted to up my game and have the low-level chops to start programming hardware"
+
     - title: Pomodoro clone in Elm
       link: "https://github.com/NewMountain/timerApp"
       tagline: "A fun Focus/Relax productivity timer app to practice Elm."
@@ -154,8 +161,8 @@ skills:
       level: 65%
       
 certifications:
-  - name: AWS Certified Developer - Associate
-    link: https://www.youracclaim.com/badges/c842f9a4-a40a-43ad-94c7-13ebe2c502e4/linked_in_profile
+  - name: 
+    link: 
   
   
 
