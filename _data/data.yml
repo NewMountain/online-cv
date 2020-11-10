@@ -77,12 +77,12 @@ experiences:
       to explore new technologies, establish best practices and redefine what was possible
       with technology.
 
-        - Transition an internal ecosystem of applications from Express apps running on Linux boxes to OTP apps in Elixir and containerized microservices in a variety of languages 
-        - Design and write a domain specific internal language for data in Haskell that could also transpile to ANSI SQL, PySpark or Scala Spark
-        - Ship applications and microservices used widely internally in Node (Express), Python (Flask), Go (Echo) or Elixir (Phoenix)
-        - Create delightful user experiences in Elm and React
-        - Run a successful enterprise-first cloud POC project
-        - Establish a DevOps ecosystem including an internal scaffolding tool in Go and a Jenkins framework to dynamically generate context-aware pipelines to satisfy regulators and delight developers
+        - Transitioned an internal ecosystem of applications from Express apps running on Linux boxes to OTP apps in Elixir and containerized microservices in a variety of languages 
+        - Designed and wrote a domain specific internal language for data in Haskell that could also transpile to ANSI SQL, PySpark or Scala Spark
+        - Shipped applications and microservices used widely internally in Node (Express), Python (Flask), Go (Echo) or Elixir (Phoenix)
+        - Created delightful user experiences in Elm and React
+        - Ran a successful enterprise-first cloud POC project
+        - Established a DevOps ecosystem including an internal scaffolding tool in Go and a Jenkins framework to dynamically generate context-aware pipelines to satisfy regulators and delight developers
 
   - role: Director, Software Engineer
     time: 2015 - 2016
